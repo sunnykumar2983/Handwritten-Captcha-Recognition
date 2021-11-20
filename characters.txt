@@ -1,0 +1,4 @@
+#character set used are:
+CAPITAL LETTER:- A-Z
+SMALL LETTER:- a-z
+DIGITS:- 0-9
