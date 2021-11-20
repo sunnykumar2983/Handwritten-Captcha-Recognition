@@ -11,7 +11,7 @@ Activate Virtual Environment:
 conda activate
 Clone the Repo.
 
-#### git clone 
+#### git clone https://github.com/sunnykumar2983/Handwritten-Captcha-Recognition.git
 Go to the location of your cloned repo.
 
 #### cd Handwritten-Captcha-Recognition
